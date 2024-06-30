@@ -1,4 +1,4 @@
-# Snake (Python)
+# 🐍 Snake (Python)
 
 A snake game written in Python.
 
